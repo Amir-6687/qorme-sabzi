@@ -24,7 +24,7 @@ Ein Projekt zur Verwaltung und gemeinsamen Nutzung von Qorme-Sabzi-Rezepten! Die
 
 Qorme Sabzi ist eines der beliebtesten Gerichte im Iran, und dieses Projekt hilft Ihnen, die besten Rezepte zuzubereiten. Benutzer können ihre eigenen Rezepte hinzufügen, bewerten und sogar Kochtipps teilen.
 
-![Qorme Sabzi Bild](https://via.placeholder.com/1000x300 "Qorme Sabzi Bild")
+![Qorme Sabzi Bild](images/qormeh-sabzi.jpg "Qorme Sabzi Bild")
 
 ### Verwendete Technologien
 
