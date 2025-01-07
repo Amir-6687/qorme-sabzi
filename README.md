@@ -28,9 +28,9 @@ Qorme Sabzi ist eines der beliebtesten Gerichte im Iran, und dieses Projekt hilf
 
 ### Verwendete Technologien
 
-- [React.js](https://reactjs.org/) für die Benutzeroberfläche
-- [Node.js](https://nodejs.org/) für das Backend
-- [MongoDB](https://www.mongodb.com/) für die Datenspeicherung
+- [![React Logo](images/react-logo.png)](https://reactjs.org/) für die Benutzeroberfläche
+- [![Node.js Logo](images/nodejs.png)](https://nodejs.org/) für das Backend
+- [![MongoDB](images/database-storage.png)](https://www.mongodb.com/) für die Datenspeicherung
 
 ---
 
